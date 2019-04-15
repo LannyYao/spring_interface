@@ -1,2 +1,8 @@
-# spring_interface
-The repo is to impl some usual interface from spring framework
+实例化前postProcessBeforeInstantiation
+实例化后postProcessAfterInstantiation
+处理属性前postProcessPropertyValues
+处理属性setName
+初始化前postProcessBeforeInitialization
+@PostConstruct修饰的方法
+属性设置完毕afterPropertiesSet
+初始化后postProcessAfterInitialization
